@@ -12,6 +12,7 @@
   "production": {
     "database": "authapp_production",
     "host": "127.0.0.1",
-    "dialect": "postgres"
+    "dialect": "postgres",
+    "use_env_variable": "postgres://ndebhisqwokkqh:399cd198ef402a569389e391362d8f9214d38f5f933fd18d534dd2263875aede@ec2-52-22-94-132.compute-1.amazonaws.com:5432/d581d662pgt0pu"
   }
 }
